@@ -6,7 +6,7 @@
 }
 
 .thumbnail-row {
-    margin-bottom: 12px;
+    margin-bottom: 8px;
     position: relative;
 }
 
@@ -35,7 +35,7 @@
     font-size: 14px;
     font-weight: 500;
     line-height: 20px;
-    margin-bottom: 12px;
+    margin-bottom: 10px;
 }
 
 .video-author,
@@ -62,8 +62,7 @@
 }
 
 .profile-picture {
-    width: 40px;
-    vertical-align: top;
+    width: 36px;
     border-radius: 50px;
 }
 
